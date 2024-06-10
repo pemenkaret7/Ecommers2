@@ -1,0 +1,281 @@
+[
+  {
+    "Id": 1,
+    "Harga": 1000,
+    "user": {
+      "ID": 1,
+      "saldo": 292300,
+      "nama": "pandu",
+      "pass": "123",
+      "keranjang": []
+    },
+    "produk": {
+      "Stok": 3,
+      "kode": 1,
+      "harga": 1000,
+      "namaBarang": "Sikat gigi",
+      "tanggal": "56",
+      "namaBrand": "SASSA",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "panji",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 2,
+    "Harga": 700,
+    "user": {
+      "ID": 1,
+      "saldo": 291300,
+      "nama": "pandu",
+      "pass": "123",
+      "keranjang": []
+    },
+    "produk": {
+      "Stok": 5,
+      "kode": 2,
+      "harga": 700,
+      "namaBarang": "Minyak",
+      "tanggal": "78",
+      "namaBrand": "GAGA",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "pandu",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 3,
+    "Harga": 500,
+    "user": {
+      "ID": 1,
+      "saldo": 290600,
+      "nama": "pandu",
+      "pass": "123",
+      "keranjang": []
+    },
+    "produk": {
+      "Stok": 5,
+      "kode": 0,
+      "harga": 500,
+      "namaBarang": "Sabun Mandi",
+      "tanggal": "23",
+      "namaBrand": "Anjay",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "pandu",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 4,
+    "Harga": 1000,
+    "user": {
+      "ID": 1,
+      "saldo": 290100,
+      "nama": "pandu",
+      "pass": "123",
+      "keranjang": []
+    },
+    "produk": {
+      "Stok": 4,
+      "kode": 0,
+      "harga": 500,
+      "namaBarang": "Sabun Mandi",
+      "tanggal": "23",
+      "namaBrand": "Anjay",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "pandu",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 5,
+    "Harga": 700,
+    "user": {
+      "ID": 2,
+      "saldo": 29800,
+      "nama": "panji",
+      "pass": "123",
+      "keranjang": [
+        {
+          "barang": {
+            "Stok": 4,
+            "kode": 2,
+            "harga": 700,
+            "namaBarang": "Minyak",
+            "tanggal": "78",
+            "namaBrand": "GAGA",
+            "user": {
+              "ID": 1,
+              "saldo": 5000,
+              "nama": "pandu",
+              "pass": "123"
+            }
+          },
+          "jumlah": 1
+        }
+      ]
+    },
+    "produk": {
+      "Stok": 4,
+      "kode": 2,
+      "harga": 700,
+      "namaBarang": "Minyak",
+      "tanggal": "78",
+      "namaBrand": "GAGA",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "pandu",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 6,
+    "Harga": 1400,
+    "user": {
+      "ID": 3,
+      "saldo": 100000,
+      "nama": "ku",
+      "pass": "23",
+      "keranjang": []
+    },
+    "produk": {
+      "Stok": 3,
+      "kode": 2,
+      "harga": 700,
+      "namaBarang": "Minyak",
+      "tanggal": "78",
+      "namaBrand": "GAGA",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "pandu",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 7,
+    "Harga": 1500,
+    "user": {
+      "ID": 2,
+      "saldo": 291000,
+      "nama": "panji",
+      "pass": "123",
+      "keranjang": []
+    },
+    "produk": {
+      "Stok": 8,
+      "kode": 0,
+      "harga": 500,
+      "namaBarang": "Sabun Mandi",
+      "tanggal": "23",
+      "namaBrand": "Anjay",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "pandu",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 8,
+    "Harga": 700,
+    "user": {
+      "ID": 4,
+      "saldo": 100007,
+      "nama": "koko",
+      "pass": "78",
+      "keranjang": [
+        {
+          "barang": {
+            "Stok": 8,
+            "kode": 2,
+            "harga": 700,
+            "namaBarang": "minyak tanah",
+            "tanggal": "78",
+            "namaBrand": "GAGA",
+            "user": {
+              "ID": 1,
+              "saldo": 5000,
+              "nama": "pandu",
+              "pass": "123"
+            }
+          },
+          "jumlah": 1
+        }
+      ]
+    },
+    "produk": {
+      "Stok": 8,
+      "kode": 2,
+      "harga": 700,
+      "namaBarang": "minyak tanah",
+      "tanggal": "78",
+      "namaBrand": "GAGA",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "pandu",
+        "pass": "123"
+      }
+    }
+  },
+  {
+    "Id": 9,
+    "Harga": 3000,
+    "user": {
+      "ID": 4,
+      "saldo": 99307,
+      "nama": "koko",
+      "pass": "78",
+      "keranjang": [
+        {
+          "barang": {
+            "Stok": 9,
+            "kode": 1,
+            "harga": 1000,
+            "namaBarang": "Sikat gigi",
+            "tanggal": "56",
+            "namaBrand": "SASSA",
+            "user": {
+              "ID": 1,
+              "saldo": 5000,
+              "nama": "panji",
+              "pass": "123"
+            }
+          },
+          "jumlah": 3
+        }
+      ]
+    },
+    "produk": {
+      "Stok": 9,
+      "kode": 1,
+      "harga": 1000,
+      "namaBarang": "Sikat gigi",
+      "tanggal": "56",
+      "namaBrand": "SASSA",
+      "user": {
+        "ID": 1,
+        "saldo": 5000,
+        "nama": "panji",
+        "pass": "123"
+      }
+    }
+  }
+]

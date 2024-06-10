@@ -1,0 +1,44 @@
+[
+  {
+    "Stok": 5,
+    "kode": 0,
+    "harga": 500,
+    "namaBarang": "sabun caer",
+    "tanggal": "23",
+    "namaBrand": "Anjay",
+    "user": {
+      "ID": 1,
+      "saldo": 5000,
+      "nama": "pandu",
+      "pass": "123"
+    }
+  },
+  {
+    "Stok": 6,
+    "kode": 1,
+    "harga": 1000,
+    "namaBarang": "Sikat gigi",
+    "tanggal": "56",
+    "namaBrand": "SASSA",
+    "user": {
+      "ID": 1,
+      "saldo": 5000,
+      "nama": "panji",
+      "pass": "123"
+    }
+  },
+  {
+    "Stok": 7,
+    "kode": 2,
+    "harga": 700,
+    "namaBarang": "minyak tanah",
+    "tanggal": "78",
+    "namaBrand": "GAGA",
+    "user": {
+      "ID": 1,
+      "saldo": 5000,
+      "nama": "pandu",
+      "pass": "123"
+    }
+  }
+]
